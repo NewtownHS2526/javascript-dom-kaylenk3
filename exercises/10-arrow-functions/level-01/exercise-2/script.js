@@ -2,3 +2,5 @@
 // Example:
 // const add = (a, b) => a + b;
 
+const add = (a, b) => a + b;
+console.log(add(5, 4)); // 9
